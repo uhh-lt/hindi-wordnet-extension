@@ -1,6 +1,6 @@
 # Enriching Hindi WordNet using Knowledge Graph Completion Approaches
 
-Sushil Awale, and Abhik Jana, Enriching Hindi WordNet Using Knowledge Graph Completion Approach,  In Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI), 2022. (Yet to appear) [pdf](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/hindi-wordnet-expansion.pdf#hw)
+Sushil Awale, and Abhik Jana, Enriching Hindi WordNet Using Knowledge Graph Completion Approach,  In Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia (EURALI), 2022. [pdf](http://www.lrec-conf.org/proceedings/lrec2022/workshops/EURALI/pdf/2022.eurali-1.13.pdf)
 
 (Hindi WordNet data)[https://www.cfilt.iitb.ac.in/wordnet/webhwn/wn.php]
 
